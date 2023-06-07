@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kevin Josesph Hermonio, student in Iloilo Science and Technology University taking Computer Science.
+- 👋 Hi, I’m Kevin Josesph Hermonio, student in Iloilo Science and Technology University taking BS in Computer Science.
 - 👀 I’m interested in creating practical mobile applications and many other scripts.
 - 🌱 I’m currently learning python, c++, java (soon), and kivyMD.
 - 💞️ I’m looking to collaborate on simple school projects within my school.
