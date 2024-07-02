@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kevin Josesph Hermonio, student in Iloilo Science and Technology University taking BS in Computer Science.
+- 👋 Hi, I’m Kevin Josesph Hermonio, graudate in Iloilo Science and Technology University of BS in Computer Science.
 - 👀 I’m interested in creating practical mobile applications and many other scripts.
 - 🌱 I’m currently learning python, c++, java (soon), and kivyMD.
-- 💞️ I’m looking to collaborate on simple school projects within my school.
+- 💞️ I’m looking to collaborate on simple school projects within my school and hobbies.
 
 <!---
 HermonioKJ/HermonioKJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
